@@ -1,0 +1,4 @@
+wheel
+car
+face
+person
